@@ -2,7 +2,7 @@ package capitulo02.bloque01;
 
 import javax.swing.JOptionPane;
 
-public class ejercicio2menorde2 {
+public class ejercicio2_Menorde2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

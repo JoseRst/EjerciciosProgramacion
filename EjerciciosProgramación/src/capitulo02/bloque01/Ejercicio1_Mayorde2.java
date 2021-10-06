@@ -3,7 +3,7 @@ package capitulo02.bloque01;
 import javax.swing.JOptionPane;
 
 
-public class Ejercicio1mayorde2 {
+public class Ejercicio1_Mayorde2 {
 
 	public static void Ejercicio1bloque2 () {
 		String str = JOptionPane.showInputDialog("Introduzca un numero");

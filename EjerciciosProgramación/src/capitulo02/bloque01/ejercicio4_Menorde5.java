@@ -2,7 +2,7 @@ package capitulo02.bloque01;
 
 import javax.swing.JOptionPane;
 
-public class ejercicio4Menorde5 {
+public class ejercicio4_Menorde5 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 			String str = JOptionPane.showInputDialog("Introduzca un numero");
