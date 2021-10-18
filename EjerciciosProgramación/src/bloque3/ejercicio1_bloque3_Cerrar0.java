@@ -14,11 +14,10 @@ public class ejercicio1_bloque3_Cerrar0 {
 			suma += numero;
 			i++;
 
-		} while (numero !=0);
-		media = suma / (i-1);
+		} while (numero != 0);
+		media = suma / (i - 1);
 
 		System.out.println("Suma: " + suma);
 		System.out.println("Media: " + media);
 	}
 }
-

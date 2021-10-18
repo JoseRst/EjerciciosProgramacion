@@ -11,14 +11,13 @@ public class ejercicio4_bloque3_ {
 		int num;
 		int multiplo;
 		int limite;
-		
+
 		limite = Integer.parseInt(JOptionPane.showInputDialog("Introduce el limite: "));
-		
-		
+
 		num = Integer.parseInt(JOptionPane.showInputDialog("Introduce el numero para sacar el multiplo: "));
-		
+
 		System.out.println("Los multiplos de " + num + " son: ");
-		
+
 		for (int i = 0; i < limite; i++) {
 			multiplo = num * i;
 			if (multiplo < limite) {

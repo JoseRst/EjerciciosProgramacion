@@ -12,12 +12,12 @@ public class ejercicio3_bloque3_Tablas {
 				break;
 			}
 			for (int i = 1; i < 11; i++) {
-				
+
 				System.out.println(num + " x " + i + " = " + (i * num));
 				if (i > 9) {
 					System.out.println("\n");
 				}
-				
+
 			}
 
 		}
