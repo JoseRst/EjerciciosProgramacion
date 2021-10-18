@@ -2,7 +2,7 @@ package bloque3;
 
 import javax.swing.JOptionPane;
 
-public class bloque3_ejercicio2MayoryMenor {
+public class ejercicio2_bloque3MayoryMenor {
 	public static void main(String[] args) {
 		int mayor = 0, menor = 0, i = 0, num;
 

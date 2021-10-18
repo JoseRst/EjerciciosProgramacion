@@ -2,7 +2,7 @@ package bloque03.capitulo1;
 
 import javax.swing.JOptionPane;
 
-public class ejercicio1_bloque2Media {
+public class ejercicio1_bloque2_Media {
 
 	public static void main(String[] args) {
 		int cantidad = 0;

@@ -2,7 +2,7 @@ package bloque03.capitulo1;
 
 import javax.swing.JOptionPane;
 
-public class ejercicio03_contador {
+public class ejercicio03_bloque2_contador {
 
 	public static void main(String[] args) {
 		int repeticiones = 0;

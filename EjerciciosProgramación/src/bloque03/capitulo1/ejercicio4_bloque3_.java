@@ -1,4 +1,4 @@
-package bloque03.capitulo1Limite.copy;
+package bloque03.capitulo1;
 
 import java.util.Scanner;
 

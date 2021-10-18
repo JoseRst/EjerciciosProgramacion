@@ -2,12 +2,13 @@ package bloque03.capitulo1;
 
 import javax.swing.JOptionPane;
 
-public class ejercicio02_4numeros {
+public class ejercicio1_bloque3_Media {
 
 	public static void main(String[] args) {
 		int repeticiones = 0;
 		int suma = 0;
 		int numero = 0;
+		int media = 0;
 
 		repeticiones = Integer.parseInt(JOptionPane.showInputDialog("Introduce el numero de repeticiones: "));
 
@@ -21,4 +22,5 @@ public class ejercicio02_4numeros {
 		}
 		System.out.println("Suma: " + suma);
 	}
+
 }
