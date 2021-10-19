@@ -4,9 +4,9 @@ import javax.swing.JOptionPane;
 
 public class ejercicio2_bloque3MayoryMenor {
 	public static void main(String[] args) {
-		int mayor = 0, menor = 0, i = 0, num;
+		int mayor = 0, menor = 0, i = 0, num = 1;
 
-		do {
+		while (num != 0) {
 			num = Integer.parseInt(JOptionPane.showInputDialog("Introduzca un numero(0 para terminar): "));
 			if (i == 0) {
 				mayor = num;
@@ -20,7 +20,7 @@ public class ejercicio2_bloque3MayoryMenor {
 				menor = num;
 			}
 			i++;
-		} while (num != 0);
+		}
 		System.out.println("El numero  mayor es: " + mayor);
 		System.out.println("El numnero menor es: " + menor);
 
