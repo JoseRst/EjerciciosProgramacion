@@ -28,9 +28,9 @@ public class ejercicio2_bloque4_PrimoOCompuesto {
 			}
 
 			if (numeroEsPrimo == true) {
-				System.out.println("El número " + limiteInf + " es primo.");
+				System.out.println("El número " + limitInf + " es primo.");
 			}
-			limiteInf++;
+			limitInf++;
 
 		}
 
